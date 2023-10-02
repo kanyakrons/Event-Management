@@ -61,11 +61,3 @@ Open your web browser and navigate to `http://localhost`
 
 * (MEMBER) (Email: somchai@gmail.com) (Password: somchaipassword)
 * (OFFICER) (Email: rose@gmail.com) (Password: roserinpassword)
-
-## Contributors
-
-- 6410401132 Ratti Keatchaiyo
-- 6410406509 Kanyakron Sukanuyuth 
-- 6410406703 Napasamon Siribanjong
-- 6410406819 Petchgamon Sangnual 
-- 6410406924 Atitaya Promlers
